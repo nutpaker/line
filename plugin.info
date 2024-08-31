@@ -1,0 +1,10 @@
+plugin.description: This plugin is designed to log a history of torrents.
+plugin.author: NutPaker
+plugin.version: 4.3
+plugin.runlevel: 11
+rtorrent.remote: error
+rtorrent.external.error: php
+rtorrent.php.error: update.php,line.php
+php.extensions.error: json
+plugin.help: https://github.com/nutpaker/line
+
